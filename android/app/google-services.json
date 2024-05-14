@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252156545362",
+    "project_id": "ri-d-expenses-tracking-app",
+    "storage_bucket": "ri-d-expenses-tracking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252156545362:android:aa30c1559c7843f41f528b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfnQrJEOTnp8_1bRA8RszQ-jKJ7vrKKUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
